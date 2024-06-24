@@ -37,3 +37,7 @@ While Google is good, don't forget to use **duckduckgo**!
   - Very good tool to find subdomains on a given website.
  - [xeuledoc](https://github.com/Malfrats/xeuledoc)
   - If you see GoogleDrive, use this tool. It finds hidden information on GoogleDocs, GoogleSheets, etc.
+
+# Tracker
+- [Osintracker](https://app.osintracker.com/)
+  - Tool to create a graph to link all information in a CTF
