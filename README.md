@@ -31,6 +31,10 @@ While Google is good, don't forget to use **duckduckgo**!
  - [stegseek](https://github.com/RickdeJager/stegseek)
   - Steg hide cracker tool
 
+# Codes
+- [holloway/steg](https://holloway.nz/steg/)
+  - Mettre des messages cachés du texte. (si y a des espaces bizarres dans un texte, utiliser ça!)
+
 # Web
 
 - [pentest-tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
