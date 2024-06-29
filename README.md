@@ -41,6 +41,10 @@ While Google is good, don't forget to use **duckduckgo**!
   - Very good tool to find subdomains on a given website.
  - [xeuledoc](https://github.com/Malfrats/xeuledoc)
   - If you see GoogleDrive, use this tool. It finds hidden information on GoogleDocs, GoogleSheets, etc.
+- [WayBackMachine](https://wayback-api.archive.org/)
+  - Find stuff deleted on internet
+- [archive.today](https://archive.ph)
+  - WayBackMachine doesn't work on every websites => use this one instead!
 
 # Tracker
 - [Osintracker](https://app.osintracker.com/)
