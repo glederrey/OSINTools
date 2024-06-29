@@ -45,6 +45,8 @@ While Google is good, don't forget to use **duckduckgo**!
   - Find stuff deleted on internet
 - [archive.today](https://archive.ph)
   - WayBackMachine doesn't work on every websites => use this one instead!
+- [EPIEOS](https://epieos.com/)
+  - Find stuff by email
 
 # Tracker
 - [Osintracker](https://app.osintracker.com/)
