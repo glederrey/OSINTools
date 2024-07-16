@@ -51,6 +51,8 @@ While Google is good, don't forget to use **duckduckgo**!
 # Historical
 - [RetroNews](https://www.retronews.fr/)
   - Website in which we can search in old french newspapers
+- [Galica](https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop)
+  - Similar as retronews
 
 # Tracker
 - [Osintracker](https://app.osintracker.com/)
