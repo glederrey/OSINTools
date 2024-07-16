@@ -47,6 +47,10 @@ While Google is good, don't forget to use **duckduckgo**!
   - WayBackMachine doesn't work on every websites => use this one instead!
 - [EPIEOS](https://epieos.com/)
   - Find stuff by email
+ 
+# Historical
+- [RetroNews](https://www.retronews.fr/)
+  - Website in which we can search in old french newspapers
 
 # Tracker
 - [Osintracker](https://app.osintracker.com/)
